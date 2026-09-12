@@ -1,0 +1,24 @@
+# Godot generates its cache locally. Keep .import and .uid project metadata.
+.godot/
+/build/
+/dist/
+/Windows/
+
+# Distribution artifacts belong in GitHub Releases.
+*.exe
+*.pck
+*.zip
+
+# Local configuration, credentials and temporary files.
+export_credentials.cfg
+.env
+.env.*
+!.env.example
+!.env.template
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+Desktop.ini

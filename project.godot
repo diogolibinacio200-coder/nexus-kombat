@@ -1,0 +1,38 @@
+; Nexus Kombat — Godot 4.6
+config_version=5
+
+[application]
+config/name="NEXUS KOMBAT"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.6", "GL Compatibility")
+config/description="Sete energias. Uma dimensão. Jogo de luta arcade original."
+config/icon="res://assets/icon.svg"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/vsync/vsync_mode=1
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.014, 0.021, 0.043, 1)
+
+[physics]
+common/physics_ticks_per_second=60
+common/max_physics_steps_per_frame=8
+
+[audio]
+driver/enable_input=false
+
+[debug]
+gdscript/warnings/untyped_declaration=0
+gdscript/warnings/integer_division=0
+gdscript/warnings/shadowed_variable_base_class=0
+gdscript/warnings/unused_parameter=0
+
