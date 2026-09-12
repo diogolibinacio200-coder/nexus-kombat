@@ -1,0 +1,50 @@
+[
+	{
+		"id": 0,
+		"name": "ARTHUR",
+		"super": "EYE OF THE STORM",
+		"title": "DOMÍNIO DA TEMPESTADE"
+	},
+	{
+		"id": 1,
+		"name": "VITOR DO BEM",
+		"super": "SUPERNOVA",
+		"title": "GUARDIÃO SOLAR"
+	},
+	{
+		"id": 2,
+		"name": "MARIA",
+		"super": "ZERO HOUR",
+		"title": "ARQUITETA DO TEMPO"
+	},
+	{
+		"id": 3,
+		"name": "DIOGO",
+		"super": "SYSTEM OVERRIDE",
+		"title": "NEXUS CORE"
+	},
+	{
+		"id": 4,
+		"name": "MIRKOS",
+		"super": "EVENT HORIZON",
+		"title": "VOID MASTER"
+	},
+	{
+		"id": 5,
+		"name": "FELIPE",
+		"super": "ABSOLUTE ZERO",
+		"title": "GUARDIÃO CRIOGÊNICO"
+	},
+	{
+		"id": 6,
+		"name": "MURILO",
+		"super": "INFERNO DRIVE",
+		"title": "FLAME REACTOR"
+	},
+	{
+		"id": 7,
+		"name": "NEXUS PRIME",
+		"super": "DIMENSION COLLAPSE",
+		"title": "O NÚCLEO DESPERTO"
+	}
+]

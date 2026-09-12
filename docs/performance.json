@@ -1,0 +1,203 @@
+{
+	"engine": "4.6-stable (official)",
+	"fps_max": 60.0,
+	"fps_median": 60.0,
+	"fps_min": 60.0,
+	"renderer": "Intel(R) UHD Graphics 770",
+	"resolution": "1280x720",
+	"samples": [
+		{
+			"fps": 60.0,
+			"physics_ms": 1.21,
+			"process_ms": 16.858
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 2.008,
+			"process_ms": 17.075
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.159,
+			"process_ms": 17.171
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.777,
+			"process_ms": 17.428
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.955,
+			"process_ms": 17.31
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.403,
+			"process_ms": 17.496
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.54,
+			"process_ms": 17.594
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.555,
+			"process_ms": 17.181
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.546,
+			"process_ms": 16.865
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.472,
+			"process_ms": 17.088
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.074,
+			"process_ms": 16.932
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.886,
+			"process_ms": 17.294
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.641,
+			"process_ms": 17.207
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.604,
+			"process_ms": 16.966
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.584,
+			"process_ms": 17.043
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.246,
+			"process_ms": 17.442
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.731,
+			"process_ms": 17.127
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.724,
+			"process_ms": 17.406
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.024,
+			"process_ms": 17.169
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.125,
+			"process_ms": 17.412
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.574,
+			"process_ms": 17.423
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.628,
+			"process_ms": 17.332
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.567,
+			"process_ms": 17.25
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.108,
+			"process_ms": 17.179
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.786,
+			"process_ms": 17.269
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.561,
+			"process_ms": 17.156
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.607,
+			"process_ms": 16.984
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.817,
+			"process_ms": 17.167
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.43,
+			"process_ms": 17.258
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.843,
+			"process_ms": 17.027
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.053,
+			"process_ms": 17.425
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.97,
+			"process_ms": 17.627
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 1.223,
+			"process_ms": 17.268
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.73,
+			"process_ms": 17.153
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.709,
+			"process_ms": 17.297
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.815,
+			"process_ms": 17.098
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.692,
+			"process_ms": 17.013
+		},
+		{
+			"fps": 60.0,
+			"physics_ms": 0.645,
+			"process_ms": 17.507
+		}
+	],
+	"simulated_frames": 2400,
+	"steps_per_second": 60.1262651568293,
+	"wall_seconds": 39.916
+}
